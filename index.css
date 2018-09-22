@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	background-color: #A2BFCE;
+	color: #424242;
+	font-family: Trebuchet MS;
+	padding-bottom: 5%;
+}
+
+h1 {
+	font-size: 55px;
+	background-color: white;
+}
+p {
+	color: white;
+	font-size: 40px;
+}
+
+/* http://www.hyperlinkcode.com/button-links.php */
+
+input.Mybuttons {
+	background: #424242;
+	color: white;
+	font-family: Trebuchet MS;
+	font-size: 20px;
+	width: 150px;
+	cursor: pointer;
+	padding: 20px;
+	border-radius: 6px;
+}
+
+input.Mybuttons:hover {
+	background: #C8C8C8;
+}

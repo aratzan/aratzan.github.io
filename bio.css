@@ -1,15 +1,19 @@
 
 body {
 	font-family: Courier; 
-	font-size: 20px;
-	
+	font-size: 18px;
+	color: #424242;
 	text-align: center;
-	background-color: #ADD8E6;
+	background-color: #A2BFCE;
 }
 
 h1 {
 	font-size: 42px;
-	background-color: #C0C0C0;
+	font-family: Trebuchet MS;
+	background-color: white;
+	border-style: groove;
+	border-width: 8px;
+	border-color: #A9A9A9;
 }
 
 p {
